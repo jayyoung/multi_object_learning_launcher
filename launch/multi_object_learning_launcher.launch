@@ -1,0 +1,8 @@
+<launch>
+	<!-- pcl segmentation Service -->
+
+	<include file="$(find surface_based_object_learning)/launch/surface_based_object_learning.launch"/>
+
+	<include file="$(find initial_surface_view_evaluation)/launch/initial_view_evaluation.launch"/>
+
+</launch>
