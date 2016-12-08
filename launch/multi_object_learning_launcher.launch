@@ -6,6 +6,6 @@
 
 	<include file="$(find initial_surface_view_evaluation)/launch/initial_view_evaluation.launch"/>
 
-<!--	<include file="$(find object_learning_table)/launch/object_learning_table.launch)"/> -->
+<	<include file="$(find object_learning_table)/launch/object_learning_table.launch)"/>
 
 </launch>
