@@ -1,11 +1,11 @@
 <launch>
 
-	<include file="$(find object_interestingness_estimator)/launch/estimator.launch"/>
+<!--	<include file="$(find object_interestingness_estimator)/launch/estimator.launch"/>-->
 
 	<include file="$(find surface_based_object_learning)/launch/surface_based_object_learning.launch"/>
 
 	<include file="$(find initial_surface_view_evaluation)/launch/initial_view_evaluation.launch"/>
 
-<	<include file="$(find object_learning_table)/launch/object_learning_table.launch)"/>
+<!--	<include file="$(find object_learning_table)/launch/object_learning_table.launch)"/>-->
 
 </launch>
