@@ -1,6 +1,6 @@
 <launch>
 
-<!--	<include file="$(find object_interestingness_estimator)/launch/estimator.launch"/>-->
+<!--		<include file="$(find object_interestingness_estimator)/launch/estimator.launch"/> -->
 
 	<include file="$(find surface_based_object_learning)/launch/surface_based_object_learning.launch"/>
 
